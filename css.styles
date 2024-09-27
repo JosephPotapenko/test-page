@@ -1,0 +1,9 @@
+body{
+  background:#3c533d
+}
+
+h1{color:#2cccbd}
+
+*{
+  color:white
+}
